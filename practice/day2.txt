@@ -1,0 +1,4 @@
+Today I practiced Linux
+Learned pwd
+Learned ls
+Learned touch
