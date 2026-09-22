@@ -1,4 +1,4 @@
-# cybersecurity-notes
+# Logesh's Cybersecurity Notes
 # Cybersecurity Notes
 
 Hi, I'm Logesh.
