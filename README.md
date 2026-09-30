@@ -1,4 +1,4 @@
-# Logesh's Cybersecurity Notes
+# Logesh's Cybersecurity Journey
 # Cybersecurity Notes
 
 Hi, I'm Logesh.
@@ -36,6 +36,7 @@ I am currently learning:
 ### Scripts
 
 - Hello Cybersecurity Python Script
+- Password Generator
 
 ## Goals
 
@@ -47,4 +48,25 @@ I am currently learning:
 ## Platforms
 
 - GitHub
-- TryHackMeMy cybersecurity learning journey.
+- TryHackMe
+
+
+## Projects
+
+### Password Generator
+ 
+Features:
+- Username input
+- Password length validation
+- Include numbers option
+- Include symbols option
+- Saves passwords to a file
+- Generate multiple passwords
+ 
+## Author
+ 
+Logesh Ramalingum
+
+University of Greenwich
+Bsc Computer Science (Cyber Security)
+
