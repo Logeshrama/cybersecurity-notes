@@ -16,3 +16,5 @@ venv/
 passwords.txt
 .local_passwords
 *.log
+cybersecurity-notes/
+cybersecurity-notes.git/
